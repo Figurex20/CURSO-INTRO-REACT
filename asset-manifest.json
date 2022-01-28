@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CURSO-INTRO-REACT/static/css/main.0c2d0320.css",
+    "main.js": "/CURSO-INTRO-REACT/static/js/main.5823892e.js",
+    "index.html": "/CURSO-INTRO-REACT/index.html",
+    "main.0c2d0320.css.map": "/CURSO-INTRO-REACT/static/css/main.0c2d0320.css.map",
+    "main.5823892e.js.map": "/CURSO-INTRO-REACT/static/js/main.5823892e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c2d0320.css",
+    "static/js/main.5823892e.js"
+  ]
+}
